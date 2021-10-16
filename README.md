@@ -6,5 +6,5 @@ another webpage with great UI
 
 Here for just HacktoberFest.
 Created by Abhishek Boken
-Contributed by Secreterror
+Updated by Secreterror
 NIT KKR
