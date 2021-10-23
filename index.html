@@ -5,6 +5,13 @@
     <title>MarkIt</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/shop-homepage.css" rel="stylesheet">
+    <script>
+      function snackBarfunction() {
+        var x = document.getElementById("snackbar");
+        x.className = "show";
+        setTimeout(function(){  x.className = x.className.replace("show", "");}, 3000);
+      }
+    </script>
   </head>
   <body>
     <nav class="navbar navbar-expand-lg  bg-light fixed-top">
@@ -149,7 +156,7 @@
                     <a href="#">Iphone 8</a>
                   </h4>
                   <h5>₹ 59,999</h5>
-                   <ul>
+        <ul>
             <li>Colour: Silver</li>
             <li>iOS v11 operating system with 1.2GHz Apple A11 Bionic hexa core processor</li>
             <li>2GB RAM</li>
@@ -337,6 +344,8 @@
     <footer class="py-5 bg-dark">
       <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; MarkIt 2018</p>
+        <p class="m-0 text-center text-white" onclick="snackBarfunction()">@Credits</p>
+        <p id="snackbar">Abhishek Boken</p>
       </div>
     </footer>
 <!-- Jquery libaries -->
