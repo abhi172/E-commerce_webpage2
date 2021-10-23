@@ -8,3 +8,7 @@ body {
     padding-top: 56px;
   }
 }
+
+.hovereffect:hover {
+  color:green ;
+}

@@ -9,4 +9,6 @@ This project is created to make newbies aware about new web technologies
 Here for just HacktoberFest.
 Created by Abhishek Boken
 Updated by Secreterror
+Contributors: 
+    Jitender Singh Chhapola
 NIT KKR
