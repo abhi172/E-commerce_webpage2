@@ -12,3 +12,7 @@ body {
 .hovereffect:hover {
   color:green ;
 }
+
+.hovereffect_size:hover {
+  font-size: 14px;
+}
