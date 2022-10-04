@@ -6,7 +6,7 @@ This project is created to make newbies aware about new web technologies
 .
 
 
-Here for just HacktoberFest.
+Here for just HacktoberFest free t-shirt.
 Created by Abhishek Boken
 Updated by Secreterror
 Contributors: 
