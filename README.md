@@ -10,6 +10,6 @@ Here for just HacktoberFest free t-shirt.
 Created by Abhishek Boken
 Updated by Secreterror
 Contributors: 
-    Jitender Singh Chhapola
+    Manish 
 NIT KKR
 Updated by stark
