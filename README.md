@@ -14,4 +14,4 @@ Contributors:
 NIT KKR
 Updated by stark
 
-contribution for hactobwr fest 2023 by Abhishek boken
+Contribution for hactober fest 2023 by Abhishek boken
